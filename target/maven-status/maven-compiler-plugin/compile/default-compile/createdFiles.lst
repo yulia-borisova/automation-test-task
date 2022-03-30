@@ -1,0 +1,7 @@
+onlineShopPages\RegistrationPage.class
+onlineShopPages\HomePage.class
+onlineShopPages\ItemsPage.class
+onlineShopPages\CartPage.class
+onlineShopPages\UserPage.class
+onlineShopPages\PageObject.class
+onlineShopPages\SearchResultPage.class
